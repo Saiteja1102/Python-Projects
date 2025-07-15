@@ -1,0 +1,22 @@
+word_list = [
+    "baahubali", "pushpa", "rrr", "arjunreddy", "alavaikunthapurramuloo",
+    "dj", "julayi", "sarrainodu", "attarintikidaredi", "racegurram",
+    "gabbarsingh", "magadheera", "eega", "srimanthudu", "bharatanenenu",
+    "maharshi", "sarkaruvaaripaata", "rangasthalam", "fidaa", "lovestory",
+    "shyamsingharoy", "jersey", "geethagovindam", "taxiwaala", "bheeshma",
+    "dookudu", "businessman", "oopiri", "manam", "hello",
+    "yemaayachesave", "aaa", "ninnukori", "nanisgangleader", "antesundaraniki",
+    "hit", "v", "karthikeya", "karthikeya2", "goodachari",
+    "agentsaisrinivasathreya", "kanulukanulanudochayante", "brochevarevarura", "malliraava", "chilasow",
+    "tholiprema", "pellichoopulu", "eenagaranikiemaindi", "happydays", "anand",
+    "godavari", "vedam", "krack", "waltaireveerayya", "veerasimhareddy",
+    "bholashankar", "dasara", "virataparvam", "major", "ugram",
+    "balagam", "rajugarigadhi", "prema", "aditya369", "swathimuthyam",
+    "mayabazar", "devadasu", "narthanasala", "lavakusa", "gundammakatha",
+    "muthyalamuggu", "missamma", "shankarabharanam", "sagarasangamam", "rudraveena",
+    "jagadekaveeruduathilokasundari", "indra", "narasimhnaidu", "samarasimhareddy", "simhadri",
+    "pokiri", "kick", "temper", "ismartshankar", "liger",
+    "kushi", "bimbisara", "ashokavanamloarjunakalyanam", "sitaramam", "jathiratnalu",
+    "pratirojupandage", "solobrathukesobetter", "vinayavidheyarama", "jailavakusa", "ntrkathanayakudu",
+    "ntrmahanayakudu", "yatra", "rudhramadevi", "omnamoenkatesaya", "gamyam"
+]
